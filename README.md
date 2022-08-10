@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Php 
 - 🌱 I’m currently learning  Javascript , Laravel .
 - 💞️ I’m looking to collaborate on ... frontend job oppourtunity.
-- My portfolio Link: https://masirul-codify.github.io/portfolio/masirul-portfolio.html
+- My portfolio Link... https://masirul-codify.github.io/portfolio/masirul-portfolio.html
 - 📫 How to reach me ... https://www.facebook.com/masi.rul.3785
 
 <!---
