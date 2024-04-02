@@ -1,25 +1,5 @@
 <div align="center">             
   <h1 align="center">Masirul Islam</h1>       
-        
-[![coffee][coffee-shield]][coffee-url]   
-[![javascript][javascript-shield]][javascript-url] 
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![raspberry-pi][raspberry-shield]][raspberry-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]  
-[![c][c-shield]][c-url]
-[![python][python-shield]][python-url]
-[![windows][windows-shield]][windows-url]
-[![go][go-shield]][go-url]
-[![android][android-shield]][android-url] 
-[![latex][latex-shield]][latex-url]
-[![c#][c#-shield]][c#-url]
-[![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
-   
 </div>
 
 ### Hi, This is Masirul. A Passionate Software Developer, Entrepreneur and Programmer. I love to play with coding, building software, and focusing on learning new technologies. I currently serve as the Employee of Triplebytesoft Limited, a renowned software firm in Bangladesh. 
